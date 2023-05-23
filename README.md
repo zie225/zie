@@ -17,7 +17,7 @@
 <a href="https://www.instagram.com/mczie225/">
   <img align="left" alt="Turkalp's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/hamed225">
+<a href="https://discord.gg/hamed225#1999">
   <img align="left" alt="Zie's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/coulibal_zie">
