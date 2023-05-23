@@ -20,7 +20,7 @@
 <a href="https://discord.gg/hamed225">
   <img align="left" alt="Zie's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/turkalpmd">
+<a href="https://twitter.com/coulibal_zie">
   <img align="left" alt="Zie | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/zie-mamadou-coulibaly-a71112a6/">
